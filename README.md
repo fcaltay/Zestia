@@ -1,0 +1,3 @@
+# CookWise
+
+Project entry point.
